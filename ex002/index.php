@@ -30,7 +30,7 @@
     
     
 
-    echo($casado ? " Casado " : " Não é casado "); //exibe 'bool(false)'
+    echo ($casado ? " Casado " : " Não é casado "); //exibe 'bool(false)'
 
     ?>
     </h2>
