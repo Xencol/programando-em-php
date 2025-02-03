@@ -18,7 +18,7 @@
     $tem_ingresso = false;
     $tem_cortesia = true;
 
-    echo ($tem_ingressotem or $tem_cortesia) ? "Você pode entrar na festa." : "você não pode entrar na festa.";
+    echo ($tem_ingresso or $tem_cortesia) ? "Você pode entrar na festa." : "você não pode entrar na festa.";
 
     echo "<br>";
     

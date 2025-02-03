@@ -13,14 +13,14 @@
         
         //Declarando uma Variável
         
-        $nome = "Ana";
-        $sobrenome = "Cunha";
+        $nome = "Luis";
+        $sobrenome = "Oliveira Bastos";
        
         //Variavel pode ser alterda 
 
-        $nome = "Ana Claudia";
+        $nome = "Luis Miguel";
       
-        const time = "Mudafuca";
+        const time = "Nenhum";
         const timenovo = "Palmeiras";
 
         echo "Seja-bem vindo, $nome $sobrenome <br> <br> Meu time é " . timenovo;  
