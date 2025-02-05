@@ -80,7 +80,7 @@ echo "<br>";
 
 $array[] = 19;
 
-//ordenando o array
+//ordenando o array de forma crescente
 
 sort($array);
 
