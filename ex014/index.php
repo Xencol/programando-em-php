@@ -10,7 +10,7 @@
 <?php
 
 function saudacao(){
-echo "ola´seja bem vindo ao php";
+echo "olá seja bem vindo ao php";
 
 }
 
